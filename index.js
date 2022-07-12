@@ -23,4 +23,4 @@ function obtenerPrimos(num) {
   }
 }
 
-console.log(obtenerPrimos(10)); // [2, 3, 5, 7,]
+console.log(obtenerPrimos(10)); // [2, 3, 5, 7]
